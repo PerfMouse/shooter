@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "brYD1KG2+728wMSuWIAM8lRE4S6hO7f06hMViHLkNj7+Gu1TwZisoNVn5OxsLVTZS/6bY/suVfv9DyHQ3fA0VA==",
+  "success": true,
+  "projectFilePath": "/home/liam/Unity/Games/github/shooter/shooter_server/server/server.csproj",
+  "expectedPackageFiles": [
+    "/home/liam/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/liam/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
