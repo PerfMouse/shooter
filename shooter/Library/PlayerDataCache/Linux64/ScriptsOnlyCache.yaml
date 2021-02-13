@@ -8,8 +8,6 @@ ScriptsOnlyBuild:
     - PlayerManager
     - ThreadManager
     - UIManager
-    Unity.Rider.Editor.dll:
-    - Packages.Rider.Editor.RiderScriptEditorData
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -18,7 +16,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -59,33 +56,33 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9740}
     - Class: 114
-      Script: {instanceID: 9912}
+      Script: {instanceID: 9878}
     - Class: 114
-      Script: {instanceID: 9952}
+      Script: {instanceID: 9914}
     - Class: 114
-      Script: {instanceID: 10296}
+      Script: {instanceID: 9934}
     - Class: 114
-      Script: {instanceID: 10362}
+      Script: {instanceID: 9956}
     - Class: 114
-      Script: {instanceID: 10744}
+      Script: {instanceID: 10300}
     - Class: 114
-      Script: {instanceID: 10908}
+      Script: {instanceID: 10366}
     - Class: 114
-      Script: {instanceID: 10940}
+      Script: {instanceID: 10748}
     - Class: 114
-      Script: {instanceID: 11226}
+      Script: {instanceID: 10912}
     - Class: 114
-      Script: {instanceID: 11234}
+      Script: {instanceID: 10944}
     - Class: 114
-      Script: {instanceID: 11598}
+      Script: {instanceID: 11048}
     - Class: 114
-      Script: {instanceID: 12968}
+      Script: {instanceID: 11232}
     - Class: 114
-      Script: {instanceID: 13002}
+      Script: {instanceID: 11240}
     - Class: 114
-      Script: {instanceID: 13008}
+      Script: {instanceID: 11604}
     - Class: 114
-      Script: {instanceID: 13018}
+      Script: {instanceID: 11628}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -179,6 +176,12 @@ ScriptsOnlyBuild:
     className: GroupTrack
   - hash:
       serializedVersion: 2
+      Hash: 19ce4d990b36c942bc272650aa89dc85
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerManager
+  - hash:
+      serializedVersion: 2
       Hash: a5781dc71a671b1ad2b38de19f24b71f
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -195,6 +198,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerController
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -491,6 +500,12 @@ ScriptsOnlyBuild:
     className: Physics2DRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 86a4c4a60253e8c173479e8f7fa608c6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
+  - hash:
+      serializedVersion: 2
       Hash: c1933cc0a2f4ff6eb13333347497beb3
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -635,6 +650,12 @@ ScriptsOnlyBuild:
     className: SignalEmitter
   - hash:
       serializedVersion: 2
+      Hash: b8f86136a3108504a474a9c66811a96d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraController
+  - hash:
+      serializedVersion: 2
       Hash: 7072231382eb3c4871b3dd75ad0227e1
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -651,30 +672,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: b8f86136a3108504a474a9c66811a96d
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CameraController
-  - hash:
-      serializedVersion: 2
-      Hash: 19ce4d990b36c942bc272650aa89dc85
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayerManager
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayerController
-  - hash:
-      serializedVersion: 2
-      Hash: 86a4c4a60253e8c173479e8f7fa608c6
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameManager
   platform: 24
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
