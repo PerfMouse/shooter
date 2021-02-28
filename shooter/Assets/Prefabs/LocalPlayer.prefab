@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8241732385798750419}
   - component: {fileID: 132742259249077284}
   - component: {fileID: 2703571552636494576}
+  - component: {fileID: -5745776643998040438}
   m_Layer: 0
   m_Name: LocalPlayer
   m_TagString: Untagged
@@ -60,6 +61,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7870adb1d4514c6ca88961e101e2c7e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  controller: {fileID: -5745776643998040438}
+  gravity: -19.62
+  moveSpeed: 5
+  jumpSpeed: 9
+  movementPredition: 1
+--- !u!143 &-5745776643998040438
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4008330913260075629}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 2
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &6455802995403664860
 GameObject:
   m_ObjectHideFlags: 0
@@ -71,7 +95,6 @@ GameObject:
   - component: {fileID: 4933370818735149058}
   - component: {fileID: 9113771127718400595}
   - component: {fileID: 3858821913171111974}
-  - component: {fileID: 6965609695256823824}
   m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
@@ -115,6 +138,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -139,20 +163,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!136 &6965609695256823824
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6455802995403664860}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 2
-  m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &6507876175597807747
 GameObject:
   m_ObjectHideFlags: 0
@@ -165,6 +175,7 @@ GameObject:
   - component: {fileID: 5754910689035312527}
   - component: {fileID: 1354069564075727653}
   - component: {fileID: 6636379281409609915}
+  - component: {fileID: 5362364891578383135}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -252,3 +263,63 @@ MonoBehaviour:
   player: {fileID: 132742259249077284}
   sens: 100
   clampAngle: 80
+--- !u!114 &5362364891578383135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6507876175597807747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volumeTrigger: {fileID: 7589616756778637227}
+  volumeLayer:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  stopNaNPropagation: 1
+  finalBlitToCameraTarget: 0
+  antialiasingMode: 1
+  temporalAntialiasing:
+    jitterSpread: 0.75
+    sharpness: 0.25
+    stationaryBlending: 0.95
+    motionBlending: 0.85
+  subpixelMorphologicalAntialiasing:
+    quality: 2
+  fastApproximateAntialiasing:
+    fastMode: 0
+    keepAlpha: 0
+  fog:
+    enabled: 1
+    excludeSkybox: 1
+  debugLayer:
+    lightMeter:
+      width: 512
+      height: 256
+      showCurves: 1
+    histogram:
+      width: 512
+      height: 256
+      channel: 3
+    waveform:
+      exposure: 0.12
+      height: 256
+    vectorscope:
+      size: 256
+      exposure: 0.12
+    overlaySettings:
+      linearDepth: 0
+      motionColorIntensity: 4
+      motionGridSize: 64
+      colorBlindnessType: 0
+      colorBlindnessStrength: 1
+  m_Resources: {fileID: 11400000, guid: d82512f9c8e5d4a4d938b575d47f88d4, type: 2}
+  m_ShowToolkit: 0
+  m_ShowCustomSorter: 0
+  breakBeforeColorGrading: 0
+  m_BeforeTransparentBundles: []
+  m_BeforeStackBundles: []
+  m_AfterStackBundles: []
