@@ -1,4 +1,4 @@
-#Folders
+# Folders
 - GameLauncher & Launcher are temporary
 - shooter = client
 - shooter_server = server (outdated)
