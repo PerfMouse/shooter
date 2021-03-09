@@ -65,7 +65,7 @@ MonoBehaviour:
   gravity: -19.62
   moveSpeed: 5
   jumpSpeed: 9
-  movementPredition: 1
+  movementPredition: 0
 --- !u!143 &-5745776643998040438
 CharacterController:
   m_ObjectHideFlags: 0

@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Net;
@@ -31,12 +32,10 @@ public class ClientHandle : MonoBehaviour
     {
         int _id = _packet.ReadInt();
         Vector3 _position = _packet.ReadVector3();
-        
-        
-        if (Vector3.Distance(GameManager.players[_id].transform.position, _position) > 0.5f)
-            GameManager.players[_id].transform.position = _position;
-            
-        
+        Vector3 currPos = GameManager.players[_id].transform.position;
+
+        //GameManager.players[_id].transform.position = _position;
+        GameManager.players[_id].transform.position = Vector3.Lerp(currPos, _position, 128f);
     }
 
     public static void PlayerRotation(Packet _packet)

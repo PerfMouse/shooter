@@ -27,4 +27,9 @@ public class PlayerEvents : MonoBehaviour
 
         ServerSend.PlayerPosition(p);
     }
+
+    public void Damage(Player p, int _dmg)
+    {
+        p.hp -= _dmg;
+    }
 }
