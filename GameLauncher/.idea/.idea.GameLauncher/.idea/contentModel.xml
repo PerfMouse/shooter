@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2021.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2021.1/resharper-host/local/Transient/Rider/v211/SolutionCaches/_GameLauncher.-546205855.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.nuget/packages/harfbuzzsharp/2.6.1.7/runtimes/osx/native/libHarfBuzzSharp.dylib" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/harfbuzzsharp/2.6.1.7/runtimes/win-arm64/native/libHarfBuzzSharp.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/harfbuzzsharp/2.6.1.7/runtimes/win-x64/native/libHarfBuzzSharp.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/harfbuzzsharp/2.6.1.7/runtimes/win-x86/native/libHarfBuzzSharp.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/harfbuzzsharp.nativeassets.linux/2.6.1.7/runtimes/linux-arm/native/libHarfBuzzSharp.so" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/harfbuzzsharp.nativeassets.linux/2.6.1.7/runtimes/linux-arm64/native/libHarfBuzzSharp.so" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/harfbuzzsharp.nativeassets.linux/2.6.1.7/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/harfbuzzsharp.nativeassets.linux/2.6.1.7/runtimes/linux-x64/native/libHarfBuzzSharp.so" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/skiasharp/2.80.2/runtimes/osx/native/libSkiaSharp.dylib" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/skiasharp/2.80.2/runtimes/win-arm64/native/libSkiaSharp.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/skiasharp/2.80.2/runtimes/win-x64/native/libSkiaSharp.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/skiasharp/2.80.2/runtimes/win-x86/native/libSkiaSharp.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/skiasharp.nativeassets.linux/2.80.2/runtimes/linux-arm/native/libSkiaSharp.so" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/skiasharp.nativeassets.linux/2.80.2/runtimes/linux-arm64/native/libSkiaSharp.so" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/skiasharp.nativeassets.linux/2.80.2/runtimes/linux-musl-x64/native/libSkiaSharp.so" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/skiasharp.nativeassets.linux/2.80.2/runtimes/linux-x64/native/libSkiaSharp.so" t="Include" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="GameLauncher" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="App.axaml" t="Include" />
+        <e p="App.axaml.cs" t="Include" />
+        <e p="GameLauncher.csproj" t="IncludeRecursive" />
+        <e p="MainWindow.axaml" t="Include" />
+        <e p="MainWindow.axaml.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="arm" t="Include" />
+        <e p="arm64" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="x64" t="Include" />
+        <e p="x86" t="Include" />
+      </e>
+      <e p="GameLauncher.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

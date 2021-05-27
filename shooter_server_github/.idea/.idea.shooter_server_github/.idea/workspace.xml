@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="375c6ede-99bd-42c9-aca4-e47c9fcb1dd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../shooter/Library/Artifacts/3f/3f232c0b582fe78dcc99814437977770" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shooter/Library/Artifacts/9e/9e75bc00c9695bcd4a83e7e019a4f2ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shooter/Library/Artifacts/c6/c6f5983aa1b852482441403fec336919" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-4607ef98bef8e07439d3183e2c85cb84" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-1c323141c57e7eab49a0222f02e4995b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-445ec7c7e25021657807e249e18fcba6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-49258575687f1b3569383f6d333997a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-4aece0d15629b3f0c9f3fb5894929b9d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-4f0c5e527dfc1037ca210e96abb89b15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-88383b57d259ec53b996792ac9e68b92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-8c6a66b9946c5de78a845aadb2f02e97" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-cd5b21986a2762eeeb1a359172a847a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d4e162829c0a2fb43873092c0bbb7e19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d6b58851528d542509703644da19d632" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-fda7f7ff43f2f4f19b5217b6073d9aa5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Assets/Prefabs/LocalPlayer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../shooter/Assets/Prefabs/LocalPlayer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Assets/Scripts/Server/ClientHandle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../shooter/Assets/Scripts/Server/ClientHandle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/00/0050b8d4d71d15ad33bb02a0c45374d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/03/03c83436afed543420b61b54b79bc50a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/06/06466124205536c0da2ace575c511613" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/24/24745423795b6c233dfcd97523bd0a2b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/35/354ae898f19f8bc22f6eb4cbb486320b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/39/393291909fa7d65d394222e5508cd7c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/40/4003ae7bdea55329909043e3b31bafde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/66/66943d49b11a56f2732f0afc2a0b26b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/6d/6dc07b01a2fdd7f49231489d715e48ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/81/81c5865301b79778b9105ef61092da93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/bc/bcf3bea02abd947de3f40edbaae8c1f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/d0/d04a5e4471f50a5861a93c0f9fb3ef30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/Artifacts/f6/f67898e78e1d92a518306212c128f429" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../shooter/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../shooter/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shooter/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../shooter/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../shooter/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-0a3118015fe617bd6ab09c5c81a78e78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-0b5b793ad42966decabaa07948aa1b71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-1cd73e5ea647a4a92b01eea7208b60ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-61bcc0886020aed34b46c4fca95e7eaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-635b981bd1d1b8c289c7f21969b4afab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-715edb574b4246d34ab56b1ffc02ae69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-9e8ec63ec9ac2df789509d0ba3261aae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-d8e1fd91bb2ab680f9bb2166e9cd344d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-df171ec3570daa2c49228f7ca89c5607" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-ebd1ed87e7da10e86886d483d17fd7c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/UnityTempFile-eff73aa376f761273be7753afad9d586" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shooter/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/../shooter/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/Player/PlayerEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Player/PlayerEvents.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6c/6c21c67e590a4456a60580a2296d80cc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6c/6c21c67e590a4456a60580a2296d80cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/scripts/Server/Constants.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Server/ThreadManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Server/NetworkManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Server/Server.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Server/ServerSend.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Player/PlayerStats.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Player/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Player/PlayerEvents.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Server/Client.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Server/Packet.cs" />
+      <option value="$PROJECT_DIR$/Assets/scripts/Server/ServerHandle.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1p4FvOOLg7RdnfdW5CTVX909m4P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="opaque">
+        <Object />
+      </option>
+      <option name="pid" />
+      <option name="plain">
+        <Object />
+      </option>
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="opaque">
+        <Object />
+      </option>
+      <option name="pid" />
+      <option name="plain">
+        <Object />
+      </option>
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="375c6ede-99bd-42c9-aca4-e47c9fcb1dd4" name="Default Changelist" comment="" />
+      <created>1614434687972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614434687972</updated>
+      <workItem from="1614434695343" duration="126000" />
+      <workItem from="1614435361205" duration="2743000" />
+      <workItem from="1614444122225" duration="3220000" />
+      <workItem from="1614509576828" duration="612000" />
+      <workItem from="1614721740919" duration="940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
